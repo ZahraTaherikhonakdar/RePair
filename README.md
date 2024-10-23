@@ -1,4 +1,4 @@
-# Type-aware-Query-Reformulation-via-Conditional-Transformers
+# Type-aware Query Reformulation via Conditional Transformers
 
 The RePair project is an open-source initiative designed to generate datasets containing pairs of original and refined queries. This pipeline involves multiple steps: it first takes an initial query, refines it to better capture the user's intent, retrieves relevant documents based on the refined query, evaluates the results, and then generates the pairs of original and refined queries. This comprehensive process helps in creating high-quality datasets that can be used to train and evaluate query refinement models more effectively.
 
